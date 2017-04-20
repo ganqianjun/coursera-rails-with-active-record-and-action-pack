@@ -1,2 +1,2 @@
 # coursera-rails-with-active-record-and-action-pack
-Cours
+Coursera course : Rails with Active Record and Action Pack
